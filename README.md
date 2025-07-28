@@ -28,4 +28,8 @@ Repository to track leetcode progress
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Srivallabh0407/LeetCode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Srivallabh0407/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
